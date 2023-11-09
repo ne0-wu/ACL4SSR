@@ -1,0 +1,9 @@
+# 内容：不需要或不应该通过代理访问的应用程序
+
+# 不需要
+PROCESS-NAME,Spotify.exe,DIRECT
+PROCESS-NAME,QQ.exe,DIRECT
+
+# 不应该
+PROCESS-NAME,utorrent.exe,DIRECT
+PROCESS-NAME,qbittorrent.exe,DIRECT
