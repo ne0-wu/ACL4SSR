@@ -5,5 +5,5 @@ PROCESS-NAME,Spotify.exe
 PROCESS-NAME,QQ.exe
 
 # 不应该
-# PROCESS-NAME,utorrent.exe
-# PROCESS-NAME,qbittorrent.exe
+PROCESS-NAME,utorrent.exe
+PROCESS-NAME,qbittorrent.exe
