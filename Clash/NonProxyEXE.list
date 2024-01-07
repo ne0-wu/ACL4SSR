@@ -1,8 +1,9 @@
 # 内容：不需要或不应该通过代理访问的应用程序
 
 # 不需要
-PROCESS-NAME,Spotify.exe
+# PROCESS-NAME,Spotify.exe
 PROCESS-NAME,QQ.exe
+PROCESS-NAME,WeChat.exe
 
 # 不应该
 PROCESS-NAME,utorrent.exe
