@@ -8,3 +8,4 @@ PROCESS-NAME,WeChat.exe
 # 不应该
 PROCESS-NAME,utorrent.exe
 PROCESS-NAME,qbittorrent.exe
+PROCESS-NAME,zerotier-one_x64.exe
