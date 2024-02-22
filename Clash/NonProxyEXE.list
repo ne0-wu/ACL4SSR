@@ -9,3 +9,4 @@ PROCESS-NAME,WeChat.exe
 PROCESS-NAME,utorrent.exe
 PROCESS-NAME,qbittorrent.exe
 PROCESS-NAME,zerotier-one_x64.exe
+PROCESS-NAME,cloudflared.exe
